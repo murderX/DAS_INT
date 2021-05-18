@@ -1,0 +1,59 @@
+Waf: Entering directory `/home/sunhua/ns-3-allinone/ns-3.30.1/build'
+Waf: Leaving directory `/home/sunhua/ns-3-allinone/ns-3.30.1/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (0.804s)
+Connecting Topology with k=8
+Finished Connecting Topology...
+Installing 50 Servers&Clients...
+Installation finished. Starting simulation in mode 1
+FCT 834 us with deadline 3632 us and flow size 166 KB
+FCT 60 us with deadline 10168 us and flow size 6 KB
+FCT 234 us with deadline 9608 us and flow size 46 KB
+FCT 104 us with deadline 8775 us and flow size 20 KB
+FCT 114 us with deadline 7310 us and flow size 22 KB
+FCT 60 us with deadline 555 us and flow size 6 KB
+FCT 284 us with deadline 3187 us and flow size 56 KB
+FCT 684 us with deadline 870 us and flow size 136 KB
+FCT 554 us with deadline 10117 us and flow size 110 KB
+FCT 744 us with deadline 989 us and flow size 148 KB
+Early Terminate for flow with deadline 500 us and flow size 104 KB
+FCT 814 us with deadline 1723 us and flow size 162 KB
+FCT 224 us with deadline 1314 us and flow size 44 KB
+FCT 744 us with deadline 3073 us and flow size 148 KB
+FCT 324 us with deadline 500 us and flow size 64 KB
+FCT 574 us with deadline 10297 us and flow size 114 KB
+Early Terminate for flow with deadline 500 us and flow size 140 KB
+FCT 184 us with deadline 2543 us and flow size 36 KB
+FCT 200 us with deadline 616 us and flow size 40 KB
+FCT 194 us with deadline 3019 us and flow size 38 KB
+Early Terminate for flow with deadline 500 us and flow size 164 KB
+FCT 294 us with deadline 1011 us and flow size 58 KB
+FCT 164 us with deadline 500 us and flow size 32 KB
+FCT 404 us with deadline 1953 us and flow size 80 KB
+FCT 72 us with deadline 2617 us and flow size 12 KB
+Early Terminate for flow with deadline 500 us and flow size 172 KB
+Early Terminate for flow with deadline 500 us and flow size 126 KB
+FCT 474 us with deadline 500 us and flow size 94 KB
+FCT 724 us with deadline 2430 us and flow size 144 KB
+FCT 700 us with deadline 993 us and flow size 140 KB
+FCT 780 us with deadline 6366 us and flow size 156 KB
+FCT 734 us with deadline 4118 us and flow size 146 KB
+FCT 864 us with deadline 3828 us and flow size 172 KB
+FCT 980 us with deadline 1739 us and flow size 196 KB
+FCT 200 us with deadline 1314 us and flow size 40 KB
+FCT 884 us with deadline 12828 us and flow size 176 KB
+FCT 374 us with deadline 5492 us and flow size 74 KB
+FCT 104 us with deadline 3922 us and flow size 20 KB
+FCT 984 us with deadline 2784 us and flow size 196 KB
+FCT 75 us with deadline 27570 us and flow size 14 KB
+FCT 684 us with deadline 1482 us and flow size 136 KB
+FCT 104 us with deadline 1202 us and flow size 20 KB
+FCT 234 us with deadline 6192 us and flow size 46 KB
+FCT 524 us with deadline 2986 us and flow size 104 KB
+FCT 966 us with deadline 8347 us and flow size 194 KB
+FCT 804 us with deadline 1447 us and flow size 160 KB
+FCT 260 us with deadline 1427 us and flow size 52 KB
+FCT 494 us with deadline 704 us and flow size 98 KB
+FCT 184 us with deadline 2473 us and flow size 36 KB
+Early Terminate for flow with deadline 500 us and flow size 182 KB
+Finished Simulation!
